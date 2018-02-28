@@ -1,0 +1,11 @@
+{
+  "name": "filereader",
+  "version": "1.0.0",
+  "description": "read mp3 tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "alex lipatnikov",
+  "license": "ISC"
+}
